@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: docker push drincon22/push-pull:tagname
+          tags: drincon22/push-pull:tagname
